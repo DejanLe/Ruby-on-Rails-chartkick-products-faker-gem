@@ -1,0 +1,7 @@
+{
+  "name": "productshop",
+  "private": true,
+  "dependencies": {
+    "vis": "^4.21.0"
+  }
+}
